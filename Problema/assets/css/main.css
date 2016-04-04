@@ -1,0 +1,37 @@
+#bann-top {
+  background: #EEE;
+  font-size: 12px; }
+  #bann-top ul {
+    padding: 0; }
+  #bann-top li {
+    list-style-type: none;
+    display: inline;
+    margin: 0 5px; }
+  #bann-top button {
+    font-size: 12px;
+    padding: 5px; }
+  #bann-top .input-group .search {
+    background: transparent;
+    border: none;
+    padding: 0; }
+  #bann-top .input-group .form-control {
+    border: none !important; }
+  #bann-top button, #bann-top ul, #bann-top .input-group {
+    display: inline; }
+  #bann-top .redes-top {
+    font-size: 18px; }
+    #bann-top .redes-top .facebook {
+      color: #3b5998; }
+    #bann-top .redes-top .twitter {
+      color: #55acee; }
+    #bann-top .redes-top .google {
+      color: #ea4335; }
+    #bann-top .redes-top .envelope {
+      color: #fbbc05; }
+    #bann-top .redes-top .rss {
+      color: #f18d00; }
+
+.publicidad {
+  background-image: url(""); }
+
+/*# sourceMappingURL=main.css.map */
